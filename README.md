@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/-@neerajsinghsarathe-%23181717?style=flat&logo=github)](https://github.com/neerajsinghsarathe)
 [![](https://img.shields.io/badge/-@neerusarathe-%231DA1F2?style=flat&logo=twitter&logoColor=ffffff)](https://twitter.com/neerusarathe)
-[![](https://img.shields.io/badge/-@neerssarathe-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/neerssarathe)
+[![](https://img.shields.io/badge/-@neeru.sarathe-f0f0f0?style=flat&logo=instagram)](http://www.instagram.com/neeru.sarathe)
 
 I am a FullStack Developer 🖥️
 
