@@ -10,7 +10,7 @@ I am a FullStack Developer 🖥️
 📖 Learner | 📽️ Video Editor | 🎮 Gamer | ☕ Tea 𝗹𝗼𝘃𝗲𝗿 
 
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## My Tech Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
