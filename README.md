@@ -19,7 +19,6 @@ I am a FullStack Developer 🖥️
 ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
-![Less](https://img.shields.io/badge/-Less-%231d365d?style=flat&logo=less&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat&logo=sass&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-%23EC4A3F?style=flat&logo=angular)
