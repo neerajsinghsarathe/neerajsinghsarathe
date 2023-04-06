@@ -35,5 +35,5 @@ I am a FullStack Developer 🖥️
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![Neeraj Singh Sarathe's github stats](https://github-readme-stats.vercel.app/api?username=neerajsinghsarathe&show_icons=true&theme=dracula) &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neerajsinghsarathe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Neeraj Singh Sarathe's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=neerajsinghsarathe&show_icons=true&theme=dracula) &nbsp;
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=neerajsinghsarathe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
