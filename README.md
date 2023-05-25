@@ -8,7 +8,7 @@
 
 I am a FullStack Developer 🖥️
 
-📖 Learner | 📽️ Video Editor | 🎮 Gamer | ☕ Tea 𝗹𝗼𝘃𝗲𝗿 
+📖 Learner | 📽️ Video Editor | 🎮 Gamer
 
 
 ## **My Tech Stack**
