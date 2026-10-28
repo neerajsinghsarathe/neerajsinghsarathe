@@ -81,12 +81,16 @@ Unit and integration testing for frontend and backend code.
 
 🎬 &nbsp;Editing videos<br>
 🎮 &nbsp;Playing games<br>
+🏍️ &nbsp;Riding my bike<br>
 📖 &nbsp;Learning something new, usually by building it
 
 <br>
 
 ### Say hello
 
+My website: [neerajsinghsarathe.github.io](https://neerajsinghsarathe.github.io/neerajsinghsarathe/)
+
+<a href="https://neerajsinghsarathe.github.io/neerajsinghsarathe/" title="My website"><picture><source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/lucide/globe.svg?color=%23ffffff"><img src="https://api.iconify.design/lucide/globe.svg?color=%23000000" width="28" height="28" alt="My website" title="My website"></picture></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/neeru.sarathe" title="Instagram"><img src="https://cdn.simpleicons.org/instagram" width="28" height="28" alt="Instagram" title="Instagram"></a>&nbsp;&nbsp;
 <a href="https://x.com/neerusarathe" title="X"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/ffffff"><img src="https://cdn.simpleicons.org/x/000000" width="28" height="28" alt="X" title="X"></picture></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/neerajsarathe/" title="LinkedIn"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.17.0/icons/linkedin/linkedin-original.svg" width="28" height="28" alt="LinkedIn" title="LinkedIn"></a>&nbsp;&nbsp;
