@@ -1,39 +1,65 @@
-# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Neeraj  Singh Sarathe 
+## Hi, I'm Neeraj Singh Sarathe
 
-<!--- [![](https://img.shields.io/badge/-@neerajsinghsarathe-%23181717?style=flat&logo=github)](https://github.com/neerajsinghsarathe) --->
-[![](https://img.shields.io/badge/-@neerajsarathe-%231DA1F2?style=flat&logo=linkedin)](https://www.linkedin.com/in/neerajsarathe/)
-[![](https://img.shields.io/badge/-@neeru.sarathe-f0f0f0?style=flat&logo=instagram)](http://www.instagram.com/neeru.sarathe)
-[![](https://img.shields.io/badge/-@neerusarathe-%231DA1F2?style=flat&logo=twitter&logoColor=ffffff)](https://twitter.com/neerusarathe)
+Senior Software Engineer in Hyderabad. I build production systems end to end, and since 2023 I've been putting LLMs into live products.
 
+[LinkedIn](https://www.linkedin.com/in/neerajsarathe/) &nbsp;&nbsp; [Email](mailto:neerajssarathe@gmail.com)
 
-I am a FullStack Developer 🖥️
+&nbsp;
 
-📖 Learner | 📽️ Video Editor | 🎮 Gamer
+### Now
 
+Senior Software Engineer at **TupleTech IT Solutions**, building a healthcare management and communication platform for doctors and their patients.
 
-## **My Tech Stack**
+- I own delivery from scoping with stakeholders to production, with Claude and Codex drafting the plans and specs and me reviewing every one.
+- I'm the main technical contact between stakeholders and engineering, across 10+ feature releases so far.
+- I lead and mentor a team of 5+ engineers.
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23ffffff?style=flat&logo=bootstrap)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+&nbsp;
 
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat&logo=sass&logoColor=ffffff)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat&logo=react)
-![Angular](https://img.shields.io/badge/-Angular-%23EC4A3F?style=flat&logo=angular)
-![Django](https://img.shields.io/badge/-Django-181d27?style=flat&logo=django)
-![MySql](https://img.shields.io/badge/-MySQL-e0e0e0?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-187f58?style=flat&logo=mongodb&logoColor=white)
+### Selected work
 
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat&logo=visual-studio-code)
-![WebStorm](https://img.shields.io/badge/webstorm-F0F0F0?style=flat&logo=webstorm&logoColor=black)
-![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)
+| Project | Result | Built with |
+| :-- | :-- | :-- |
+| Learning management system | 40,000+ users onboarded | Angular, React, Node.js, AWS EKS |
+| LLM assessment and recommendation engine | Adaptive learning paths for every learner | Node.js, FastAPI, LLMs |
+| RAG learning assistant | Answers learners' questions from company documents | RAG, Chainlit, FastAPI |
+| AI microservices | ~35% lower response latency under load | Python, FastAPI, Docker |
+| AI content engine | Publishes to Meta, Google and LinkedIn | GPT-4, Stable Diffusion, OAuth 2.0 |
+| Healthcare platform | ~40% faster database queries | Angular, React, Node.js, AWS |
+| Aadhaar payment platform | 50K+ transactions a month | Angular, React, Express.js, PostgreSQL |
 
-## 𝗦𝘁𝗮𝘁𝘀
+&nbsp;
 
-![Neeraj Singh Sarathe's github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=neerajsinghsarathe&show_icons=true&theme=dracula) &nbsp;
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=neerajsinghsarathe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Stack
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=angular,react,ts,js,nodejs,express,py,fastapi,java,aws,docker,kubernetes,githubactions,linux,postgres,mysql,mongodb,tailwind,git&perline=10&theme=dark">
+  <img alt="Angular, React, TypeScript, JavaScript, Node.js, Express, Python, FastAPI, Java, AWS, Docker, Kubernetes, GitHub Actions, Linux, PostgreSQL, MySQL, MongoDB, Tailwind CSS, Git" src="https://skillicons.dev/icons?i=angular,react,ts,js,nodejs,express,py,fastapi,java,aws,docker,kubernetes,githubactions,linux,postgres,mysql,mongodb,tailwind,git&perline=10&theme=light">
+</picture>
+
+**AI:** Claude, Codex, OpenAI GPT-4, Stable Diffusion, RAG pipelines, prompt engineering, spec-driven agentic development. Familiar with LangChain, LangGraph and CrewAI.<br>
+**Also:** RxJS, PrimeNG, Material UI, Chainlit, WebSockets, AWS Lambda, Cognito, S3, RDS, OAuth 2.0, SendGrid, Twilio, Jest, Jasmine, Karma, VAPT remediation.
+
+&nbsp;
+
+### How I ship
+
+1. Scope the work with the people asking until it's specific enough to test.
+2. Have Claude and Codex draft the implementation plan, dependency map and spec.
+3. Review and revise every plan, cutting or reshaping scope.
+4. Build, review and release through CI/CD.
+
+&nbsp;
+
+### Before this
+
+**Principal Software Engineer**, Zenthrive Technologies, 2023 to 2024<br>
+**Angular Developer**, BranchX India, 2023<br>
+**Junior Web Developer**, Deeploop (Misplaced Minds), 2021 to 2022<br>
+**Customer Support Executive**, Zen Technologies, 2017 to 2019
+
+B.Tech in Computer Science and Engineering, Nalla Malla Reddy Engineering College, 2022.
+
+&nbsp;
+
+<sub>Outside work I edit videos and play games.</sub>
